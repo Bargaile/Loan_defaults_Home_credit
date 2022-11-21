@@ -22,9 +22,9 @@ The success measure of the models - ROC AUC. Different models were explored to s
 
 Contain .py file with all classes and functions, used in the EDA and Modeling.
 
-- **fastapi[folder]**
+- **api[folder]**
 
-Contains code of deploying model on localhost, Dockerfile (app is 'dockerized')
+Contains code of deploying model on localhost with fastapi, Dockerfile (app is 'dockerized')
 and deployed to Google Cloud storage:
 
 https://defaultpredictions-rv5fvp3ynq-lz.a.run.app/docs#/ 
